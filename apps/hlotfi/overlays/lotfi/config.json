@@ -1,0 +1,1 @@
+{"appName":"hlotfi","userGivenName":"hlotfi","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/hlotfi/overlays/lotfi","srcRepoURL":"https://github.com/mohamedbouchriha/argocd-autopilot.git","srcTargetRevision":"","labels":null}
